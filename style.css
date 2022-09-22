@@ -14,13 +14,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 100px;
    
 }
 .conteudo{
     background-color: #fff;
    border-radius: 12px;
    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22) ;
-   padding:10px;
+   padding:20px;
    margin: 20px;
    width: 300px;
    
