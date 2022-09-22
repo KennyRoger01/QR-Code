@@ -21,8 +21,8 @@ body{
     background-color: #fff;
    border-radius: 12px;
    box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22) ;
-   padding:20px;
-   margin: 20px;
+   padding:15px;
+   margin: 15px;
    width: 300px;
    
 }
@@ -34,11 +34,11 @@ body{
 }
 
 .texto{
-    padding: 20px;
+    padding: 15px;
 }
 
 .titulo{
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     font-weight: 700;
     margin-top: 10px;
@@ -47,13 +47,13 @@ body{
 }
 
 .paragrafo{
-    font-size: 15px;
+    font-size: 10px;
     font-weight: 400;
     text-align: center;
     color: hsl(220, 15%, 55%);
 }
 .sub-par{
-    margin-top: 15px;
+    margin-top: 10px;
     font-size: 10px;
     font-weight: 400;
     text-align: center;
@@ -75,15 +75,17 @@ body{
         display: flex;
         justify-content: center;
         align-items: center;
+        padding: 100px;
        
     }
     .conteudo{
         background-color: #fff;
        border-radius: 12px;
        box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22) ;
-       padding:10px;
-       margin: 20px;
-       width: 300px;
+       padding:15px;
+       margin: 15px;
+       width: 200px;
+       height: 150px;
        
     }
     
@@ -94,11 +96,12 @@ body{
     }
     
     .texto{
-        padding: 20px;
+        padding: 15px;
     }
     
-    .titulo{
+    .titulo h1{
         font-size: 20px;
+        font-weight: bold;
         text-align: center;
         font-weight: 700;
         margin-top: 10px;
@@ -113,7 +116,7 @@ body{
         color: hsl(220, 15%, 55%);
     }
     .sub-par{
-        margin-top: 15px;
+        margin-top: 1px;
         font-size: 10px;
         font-weight: 400;
         text-align: center;
